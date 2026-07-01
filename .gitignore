@@ -1,0 +1,16 @@
+# Weights and data (available upon request)
+*.pth
+*.pt
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

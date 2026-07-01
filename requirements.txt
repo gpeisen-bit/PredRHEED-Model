@@ -1,0 +1,8 @@
+# PredRHEED dependencies. Reference environment: Python 3.10, PyTorch 2.9.1 (CUDA 13.0).
+# Install PyTorch matching your own CUDA from https://pytorch.org/get-started/ first.
+torch>=2.9.1
+numpy
+opencv-python
+matplotlib
+scikit-image
+tqdm
