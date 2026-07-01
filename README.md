@@ -32,7 +32,7 @@ python cascade/cascade_inference.py --predictor msam_convlstm.pth --classifier c
 
 ## Environment
 
-Python 3.10, PyTorch 2.9.1 with CUDA 13.0, single NVIDIA RTX 5090, global seed 2025.
+Python 3.10, PyTorch 2.9.1 with CUDA 13.0, NVIDIA RTX 5090.
 Install with `pip install -r requirements.txt`.
 
 ## Citation
