@@ -3,7 +3,7 @@
 Model code for **PredRHEED**, a cascaded deep-learning framework for in situ RHEED
 monitoring during ScAlN molecular beam epitaxy. It pairs a surface-state classifier
 with a future-frame predictor, so the upcoming surface state can be recognized about
-5 seconds before it is directly observed.
+5-30 seconds before it is directly observed.
 
 This repository contains the model code and the cascade only. Datasets and trained
 weights are available from the corresponding author upon reasonable request.
